@@ -26,7 +26,7 @@ An interactive Sales Analytics Dashboard built using Microsoft Excel, PivotTable
 
 ## 📊 Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](image.png)
 
 ## ⚙️ VBA Automation
 
